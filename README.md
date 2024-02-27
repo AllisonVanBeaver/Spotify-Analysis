@@ -1,4 +1,4 @@
-My dashboard finds a significant majority of top songs streamed on Spotify in 2023 have a high score in danceability and energy, but vary in acoustics and speech. 
+Upon analysis, the dashboard reveals a noteworthy trend among the top songs streamed on Spotify in 2023. Predominantly, these songs exhibit elevated scores in danceability and energy metrics, yet demonstrate discernible variations in acoustic and speech attributes.
 
 ![Screenshot (6)](https://github.com/AllisonVanBeaver/Spotify-Analysis/assets/160637606/78720943-ad5e-4c9d-954e-ac9ba497591b)
 
