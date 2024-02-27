@@ -1,3 +1,2 @@
-![Screenshot (3)](https://github.com/AllisonVanBeaver/Spotify-Analysis/assets/160637606/a00f7e70-78f9-439b-a07d-5193f35471bf)
 
-
+![Screenshot (6)](https://github.com/AllisonVanBeaver/Spotify-Analysis/assets/160637606/78720943-ad5e-4c9d-954e-ac9ba497591b)
